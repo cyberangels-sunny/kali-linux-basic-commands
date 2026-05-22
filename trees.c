@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-
-typedef struct tree{
+// programme contains binary tree and display with the help of traversal 
+typedef struct tree{    
      struct tree *left;
     int data ; 
     struct tree*right;
@@ -42,8 +42,6 @@ printf("data :%d \n",copy->data);
 
 displ(copy->left);
 
-
-
   displ(copy->right);
 
 }   
@@ -61,4 +59,4 @@ int main(){
   
 
     return 0;
-}    // session switch at 2 : 43 am ,, -- cyberangels sunny 
+}   // session terminate will 2:00  am ,, -- cyberangels  
