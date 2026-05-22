@@ -23,7 +23,7 @@ int main (){
         printf("10--# ===== DOWNLOAD / REMOTE =====\n");
         printf("11-# ===== PACKAGE MANAGEMENT =====\n");
         printf("12--# ===== COMPRESSION =====\n");
-        printf("13--# ===== DISK & STORAGE =====\n");
+    printf("13--# ===== DISK & STORAGE =====\n");
         printf("14--# ===== SYSTEM INFO & LOGS =====\n");
         printf("15--# ===== LINKS / FILE INFO =====\n");
         printf("16--# ===== REDIRECTION & PIPES =====\n");
