@@ -37,7 +37,7 @@ int main (){
         scanf("%d",&sel);
 
         if (sel ==1 ){
-        printf("pwd\n ls\n cd\n tree\n clear\n");
+        printf("pwd\n ls\n cd\n tree\n clear\n");   
         } else if(sel == 2){
          printf("touch\n mkdir\n rmdir\n cp\n mv\n rm\n unlink\n");
         }else if (sel ==3 ){
